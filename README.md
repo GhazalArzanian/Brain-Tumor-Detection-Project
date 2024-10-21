@@ -46,11 +46,11 @@ The project will focus on implementing a **custom neural network architecture** 
   - Test the model on the validation set.
   - Evaluate performance using metrics such as accuracy, precision, recall, and F1-score.
 
-- **Application & Visualization Development (6 hours)**:
+- **Application & Visualization Development (10 hours)**:
   - Develop a simple application or visualization to showcase the results.
   - Visualize the MRI scan results and model predictions.
 
-- **Final Report & Presentation (8 hours)**:
-  - Write the final report summarizing the approach, results, and lessons learned.
+- **Final Report & Presentation (4 hours)**:
+  - Write the final report summarizing the approach, results.
   - Prepare a presentation or documentation for the project, including code, results, and figures.
 
