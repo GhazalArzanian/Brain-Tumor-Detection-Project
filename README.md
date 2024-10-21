@@ -27,7 +27,7 @@ The dataset is well-organized and labeled, providing the necessary information t
 
 The project will focus on implementing a **custom neural network architecture** tailored to the brain tumor detection problem. Based on research from the reference papers, I will explore **convolutional neural networks (CNNs)**, **transfer learning**, and **data augmentation** techniques to improve detection accuracy. The model will be trained on the Kaggle dataset, and I will fine-tune hyperparameters to achieve better results.
 
-## **Work Breakdown Structure **
+## **Work Breakdown Structure**
 
 - **Dataset Collection & Preprocessing (6 hours)**:
   - Download the dataset from Kaggle.
