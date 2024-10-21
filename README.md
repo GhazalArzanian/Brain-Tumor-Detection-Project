@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-This project aims to develop a deep learning model for **brain tumor detection** using MRI scans. The model will focus on detecting four types of brain conditions: **glioma**, **healthy**, **meningioma**, and **pituitary**. The goal is to create a robust and efficient neural network that can accurately classify MRI images into these categories.
+This project aims to develop a deep-learning model for **brain tumor detection** using MRI scans. The model will focus on detecting four types of brain conditions: **glioma**, **healthy**, **meningioma**, and **pituitary**. The goal is to create a robust and efficient neural network that can accurately classify MRI images into these categories.
 
 The approach I am taking is a **"bring your own method"** strategy, where I will implement and modify an existing neural network architecture to improve the detection results. This project is a part of the **Applied Deep Learning course**. The dataset and references used for the project are detailed below.
 
@@ -51,6 +51,6 @@ The project will focus on implementing a **custom neural network architecture** 
   - Visualize the MRI scan results and model predictions.
 
 - **Final Report & Presentation (4 hours)**:
-  - Write the final report summarizing the approach, results.
+  - Write the final report summarizing the approach and results.
   - Prepare a presentation or documentation for the project, including code, results, and figures.
 
