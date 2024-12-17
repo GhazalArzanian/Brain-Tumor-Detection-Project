@@ -30,7 +30,6 @@ The project will focus on implementing a **custom neural network architecture** 
 ## **Work Breakdown Structure**
 
 - **Dataset Collection & Preprocessing (6 hours)**:
-  - Download the dataset from Kaggle.
   - Clean, preprocess, and split the data into training, validation, and test sets.
 
 - **Model Design & Development (12 hours)**:
